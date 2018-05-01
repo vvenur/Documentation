@@ -17,6 +17,7 @@ Note:
   Yum was locking this(4/30) evening and so the cloud formation build took long time to complete.
 
 Comments:
+     
      1. In the Architecture documentation has two peices, one I did while the environment was not available wanted to document the options and include the cloud formation architecture also today.
   
      2.Implementation steps document was also created before the environment was available. 
