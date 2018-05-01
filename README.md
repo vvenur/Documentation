@@ -6,9 +6,9 @@ Assessment Documentation
   CloudFormation.json - is the cloud formation script.
 
 Stacks
-  As mentioned in the first email
+  As mentioned in my first email
     - Created a stack manually and site address 107.21.88.12
-    - Created a stack built by using cloud formation, which was deleted.
+    - Created a stack built by using cloud formation.
     
 Note:
   Yum was locking this(4/30) evening and so the cloud formation build took long time to complete.
