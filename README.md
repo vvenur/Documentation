@@ -25,4 +25,4 @@ Comments:
      3.I have automated the installation and set up using shell scripts in the cloud formation script
      
 Ref:
-    used AWS documentation to create the cloud formation scripts.
+    used AWS documentation for cloud formation.
