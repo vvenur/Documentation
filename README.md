@@ -1,7 +1,6 @@
 # Documentation
 Assessment Documentation
-  Architecture docx - provides the description of two different architecture thought process and consideration including                  
-                      cloudformation architecture.
+  Architecture docx - provides the description of two different architecture thought process and consideration including            cloudformation architecture.
   
   Implementation Steps docx - contains the steps/task to implement.
   
